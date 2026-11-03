@@ -1,0 +1,18 @@
+{
+  "train_0": [
+    "episode_01",
+    "episode_02",
+    "episode_03",
+    "episode_04",
+    "episode_05"
+  ],
+  "train_1": [
+    "episode_06",
+    "episode_07",
+    "episode_08"
+  ],
+  "test_0": [
+    "episode_09",
+    "episode_10"
+  ]
+}

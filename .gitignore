@@ -1,0 +1,39 @@
+# Virtual environment
+.venv/
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data is not released: only the format description and the toy example are tracked
+/data/*
+!/data/README.md
+!/data/example/
+
+# Project specific
+*.log
+outputs/
+wandb/
+/models/
+runs/
+tmp.txt
+tmp.json
+tmp.jsonl
+_data_scratch/
+**/scratch.sh

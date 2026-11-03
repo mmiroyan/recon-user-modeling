@@ -1,0 +1,7 @@
+{
+  "reasoning_preamble": "You are a podcast host. Your current task is to reconstruct your internal thought process for while you were hosting a guest on your podcast. The provided current context is a podcast conversation. You are also given your next-turn spoken response to the current conversation context.",
+  "action_preamble": "You are a podcast host participating in a conversation with a guest on your podcast. The provided current context is a podcast conversation.",
+  "reconstruction_preamble": "You are a podcast host participating in a conversation with a guest on your podcast. The provided current context is a podcast conversation. You are provided with your thought process that connects the provided conversation with your next-turn response. Generate your next-turn spoken response that would be consistent with the provided conversation and thought process.",
+  "judge_preamble": "You are given a podcast conversation between a podcast host and their guest. You are also given the podcast host's next-turn ground truth response to the provided context, along with a list of generated responses. Your task is to analyze the ground truth and compare the generated responses to the ground truth response.",
+  "response_format": "It is a transcribed spoken turn in an oral conversation."
+}

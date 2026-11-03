@@ -1,0 +1,372 @@
+{
+  "episode_01": {
+    "metadata": {
+      "session_id": "episode_01",
+      "timestamp": "2025-01-01",
+      "target_author_name": "Host"
+    },
+    "data": [
+      {
+        "author": "Guest",
+        "action": "I started tracking my sleep last year and it changed how I schedule my week."
+      },
+      {
+        "author": "Host",
+        "action": "What did you actually change first, the bedtime or the wake-up time?"
+      },
+      {
+        "author": "Guest",
+        "action": "Honestly, the first thing was just noticing the pattern. Once I saw it written down, it was hard to ignore."
+      },
+      {
+        "author": "Host",
+        "action": "Did that hold up when you were traveling?"
+      },
+      {
+        "author": "Guest",
+        "action": "Mostly yes. I had a few bad weeks, but I had a simple fallback routine that kept me from quitting."
+      },
+      {
+        "author": "Host",
+        "action": "So consistency beat total hours for you. That's not what most people expect."
+      },
+      {
+        "author": "Guest",
+        "action": "Right, and it took me a while to accept that. I kept chasing the big number instead of the boring habit."
+      }
+    ]
+  },
+  "episode_02": {
+    "metadata": {
+      "session_id": "episode_02",
+      "timestamp": "2025-01-02",
+      "target_author_name": "Host"
+    },
+    "data": [
+      {
+        "author": "Guest",
+        "action": "I learned chess at forty and now I play every morning before work."
+      },
+      {
+        "author": "Host",
+        "action": "Forty is late to start. What made you stick with it?"
+      },
+      {
+        "author": "Guest",
+        "action": "Honestly, the first thing was just noticing the pattern. Once I saw it written down, it was hard to ignore."
+      },
+      {
+        "author": "Host",
+        "action": "How do you deal with losing streaks?"
+      },
+      {
+        "author": "Guest",
+        "action": "Mostly yes. I had a few bad weeks, but I had a simple fallback routine that kept me from quitting."
+      },
+      {
+        "author": "Host",
+        "action": "I like that. Treat the loss as data, not a verdict."
+      },
+      {
+        "author": "Guest",
+        "action": "Right, and it took me a while to accept that. I kept chasing the big number instead of the boring habit."
+      }
+    ]
+  },
+  "episode_03": {
+    "metadata": {
+      "session_id": "episode_03",
+      "timestamp": "2025-01-03",
+      "target_author_name": "Host"
+    },
+    "data": [
+      {
+        "author": "Guest",
+        "action": "Baking sourdough taught me more about patience than any book did."
+      },
+      {
+        "author": "Host",
+        "action": "What was the first loaf like? Be honest."
+      },
+      {
+        "author": "Guest",
+        "action": "Honestly, the first thing was just noticing the pattern. Once I saw it written down, it was hard to ignore."
+      },
+      {
+        "author": "Host",
+        "action": "Patience is easy to say. What does it look like on a Tuesday night?"
+      },
+      {
+        "author": "Guest",
+        "action": "Mostly yes. I had a few bad weeks, but I had a simple fallback routine that kept me from quitting."
+      },
+      {
+        "author": "Host",
+        "action": "There's something there about systems over willpower."
+      },
+      {
+        "author": "Guest",
+        "action": "Right, and it took me a while to accept that. I kept chasing the big number instead of the boring habit."
+      }
+    ]
+  },
+  "episode_04": {
+    "metadata": {
+      "session_id": "episode_04",
+      "timestamp": "2025-01-04",
+      "target_author_name": "Host"
+    },
+    "data": [
+      {
+        "author": "Guest",
+        "action": "I ran my first marathon after years of saying I hated running."
+      },
+      {
+        "author": "Host",
+        "action": "What flipped? Hating something is usually pretty sticky."
+      },
+      {
+        "author": "Guest",
+        "action": "Honestly, the first thing was just noticing the pattern. Once I saw it written down, it was hard to ignore."
+      },
+      {
+        "author": "Host",
+        "action": "Walk me through the worst mile."
+      },
+      {
+        "author": "Guest",
+        "action": "Mostly yes. I had a few bad weeks, but I had a simple fallback routine that kept me from quitting."
+      },
+      {
+        "author": "Host",
+        "action": "So the identity shift came before the fitness. Interesting."
+      },
+      {
+        "author": "Guest",
+        "action": "Right, and it took me a while to accept that. I kept chasing the big number instead of the boring habit."
+      }
+    ]
+  },
+  "episode_05": {
+    "metadata": {
+      "session_id": "episode_05",
+      "timestamp": "2025-01-05",
+      "target_author_name": "Host"
+    },
+    "data": [
+      {
+        "author": "Guest",
+        "action": "I taught myself Portuguese with podcasts and a lot of embarrassing conversations."
+      },
+      {
+        "author": "Host",
+        "action": "How embarrassing are we talking?"
+      },
+      {
+        "author": "Guest",
+        "action": "Honestly, the first thing was just noticing the pattern. Once I saw it written down, it was hard to ignore."
+      },
+      {
+        "author": "Host",
+        "action": "Do you think being embarrassed was necessary, or just a side effect?"
+      },
+      {
+        "author": "Guest",
+        "action": "Mostly yes. I had a few bad weeks, but I had a simple fallback routine that kept me from quitting."
+      },
+      {
+        "author": "Host",
+        "action": "I've noticed the same thing. The awkward phase is the tuition."
+      },
+      {
+        "author": "Guest",
+        "action": "Right, and it took me a while to accept that. I kept chasing the big number instead of the boring habit."
+      }
+    ]
+  },
+  "episode_06": {
+    "metadata": {
+      "session_id": "episode_06",
+      "timestamp": "2025-01-06",
+      "target_author_name": "Host"
+    },
+    "data": [
+      {
+        "author": "Guest",
+        "action": "My balcony garden produces more tomatoes than my family can eat."
+      },
+      {
+        "author": "Host",
+        "action": "How big is this balcony? I'm picturing something tiny."
+      },
+      {
+        "author": "Guest",
+        "action": "Honestly, the first thing was just noticing the pattern. Once I saw it written down, it was hard to ignore."
+      },
+      {
+        "author": "Host",
+        "action": "What was the biggest mistake in year one?"
+      },
+      {
+        "author": "Guest",
+        "action": "Mostly yes. I had a few bad weeks, but I had a simple fallback routine that kept me from quitting."
+      },
+      {
+        "author": "Host",
+        "action": "That's a good rule: fix the soil before you buy more plants."
+      },
+      {
+        "author": "Guest",
+        "action": "Right, and it took me a while to accept that. I kept chasing the big number instead of the boring habit."
+      }
+    ]
+  },
+  "episode_07": {
+    "metadata": {
+      "session_id": "episode_07",
+      "timestamp": "2025-01-07",
+      "target_author_name": "Host"
+    },
+    "data": [
+      {
+        "author": "Guest",
+        "action": "I write one sentence in a journal every night, no matter what."
+      },
+      {
+        "author": "Host",
+        "action": "Why one sentence and not a page?"
+      },
+      {
+        "author": "Guest",
+        "action": "Honestly, the first thing was just noticing the pattern. Once I saw it written down, it was hard to ignore."
+      },
+      {
+        "author": "Host",
+        "action": "Do you ever go back and read them?"
+      },
+      {
+        "author": "Guest",
+        "action": "Mostly yes. I had a few bad weeks, but I had a simple fallback routine that kept me from quitting."
+      },
+      {
+        "author": "Host",
+        "action": "The low bar is the whole trick, isn't it."
+      },
+      {
+        "author": "Guest",
+        "action": "Right, and it took me a while to accept that. I kept chasing the big number instead of the boring habit."
+      }
+    ]
+  },
+  "episode_08": {
+    "metadata": {
+      "session_id": "episode_08",
+      "timestamp": "2025-01-08",
+      "target_author_name": "Host"
+    },
+    "data": [
+      {
+        "author": "Guest",
+        "action": "I swim in a cold lake every weekend, even in winter."
+      },
+      {
+        "author": "Host",
+        "action": "Okay, I have to ask: why?"
+      },
+      {
+        "author": "Guest",
+        "action": "Honestly, the first thing was just noticing the pattern. Once I saw it written down, it was hard to ignore."
+      },
+      {
+        "author": "Host",
+        "action": "What does your body do in the first thirty seconds?"
+      },
+      {
+        "author": "Guest",
+        "action": "Mostly yes. I had a few bad weeks, but I had a simple fallback routine that kept me from quitting."
+      },
+      {
+        "author": "Host",
+        "action": "So it's less about the cold and more about practicing discomfort on purpose."
+      },
+      {
+        "author": "Guest",
+        "action": "Right, and it took me a while to accept that. I kept chasing the big number instead of the boring habit."
+      }
+    ]
+  },
+  "episode_09": {
+    "metadata": {
+      "session_id": "episode_09",
+      "timestamp": "2025-01-09",
+      "target_author_name": "Host"
+    },
+    "data": [
+      {
+        "author": "Guest",
+        "action": "I built a dining table with hand tools only."
+      },
+      {
+        "author": "Host",
+        "action": "Hand tools only. Was that a rule or a constraint?"
+      },
+      {
+        "author": "Guest",
+        "action": "Honestly, the first thing was just noticing the pattern. Once I saw it written down, it was hard to ignore."
+      },
+      {
+        "author": "Host",
+        "action": "How long did it take, start to finish?"
+      },
+      {
+        "author": "Guest",
+        "action": "Mostly yes. I had a few bad weeks, but I had a simple fallback routine that kept me from quitting."
+      },
+      {
+        "author": "Host",
+        "action": "I love that the constraint made the project better, not just harder."
+      },
+      {
+        "author": "Guest",
+        "action": "Right, and it took me a while to accept that. I kept chasing the big number instead of the boring habit."
+      }
+    ]
+  },
+  "episode_10": {
+    "metadata": {
+      "session_id": "episode_10",
+      "timestamp": "2025-01-10",
+      "target_author_name": "Host"
+    },
+    "data": [
+      {
+        "author": "Guest",
+        "action": "I read fifty books a year by reading on my phone instead of scrolling."
+      },
+      {
+        "author": "Host",
+        "action": "Fifty is a lot. What does a typical day look like?"
+      },
+      {
+        "author": "Guest",
+        "action": "Honestly, the first thing was just noticing the pattern. Once I saw it written down, it was hard to ignore."
+      },
+      {
+        "author": "Host",
+        "action": "Do you finish books you don't like?"
+      },
+      {
+        "author": "Guest",
+        "action": "Mostly yes. I had a few bad weeks, but I had a simple fallback routine that kept me from quitting."
+      },
+      {
+        "author": "Host",
+        "action": "Quitting bad books might be the most underrated reading habit."
+      },
+      {
+        "author": "Guest",
+        "action": "Right, and it took me a while to accept that. I kept chasing the big number instead of the boring habit."
+      }
+    ]
+  }
+}
