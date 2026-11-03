@@ -1,7 +1,7 @@
 # Data format
 
 For privacy and ethical reasons, we do not release the datasets used in the paper.
-This page describes the format the code expects so you can run RECON on your own data.
+This page describes the format the code expects so you can run Recon on your own data.
 [`example/`](example/) has a small made-up dataset in this format, which the demo scripts use by default.
 
 Each target user (the person being modeled) gets two files: a **sessions file** and a **splits file**.

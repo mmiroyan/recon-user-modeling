@@ -6,7 +6,7 @@ conversation they are in. These are inserted at the top of the prompts. Pass a c
 `--domain_config` to `recon.synthesize`, `recon.generate` and `recon.grpo.train`.
 
 [`example.json`](example.json) is the config for the example dataset in [`data/example/`](../data/example/):
-a podcast host talking with guests. To run RECON on a new domain, copy it and rewrite each field.
+a podcast host talking with guests. To run Recon on a new domain, copy it and rewrite each field.
 
 ## Fields
 

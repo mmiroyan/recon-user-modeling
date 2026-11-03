@@ -1,4 +1,4 @@
-# RECON: Reconstruction-Guided Reasoning Synthesis for User Modeling
+# Recon: Reconstruction-Guided Reasoning Synthesis for User Modeling
 
 Alan Zhu\*, Mihran Miroyan\*, Carolyn Wang, Andrew Zhou, Lisa Dunlap, Narges Norouzi, Joseph E. Gonzalez
 <br>NeurIPS 2026 · [Paper](https://arxiv.org/abs/2605.26969)
@@ -11,7 +11,7 @@ reasoning traces. These traces are usually generated from both the context and t
 they are post-hoc rationalizations: consistent with the action, but not necessarily the reasoning that
 leads to it.
 
-**RECON** scores a candidate trace by **action reconstruction**: given only the context and the trace,
+**Recon** scores a candidate trace by **action reconstruction**: given only the context and the trace,
 can a model reconstruct the user's actual action? The more closely the reconstruction matches the real
 action, the better the trace. We use this signal in two ways:
 
@@ -95,7 +95,7 @@ the expected format, which is one JSON file of conversations per target user plu
 
 ```bibtex
 @inproceedings{zhu2026recon,
-  title     = {{RECON}: Reconstruction-Guided Reasoning Synthesis for User Modeling},
+  title     = {{Recon}: Reconstruction-Guided Reasoning Synthesis for User Modeling},
   author    = {Zhu, Alan and Miroyan, Mihran and Wang, Carolyn and Zhou, Andrew and
                Dunlap, Lisa and Norouzi, Narges and Gonzalez, Joseph E.},
   booktitle = {Advances in Neural Information Processing Systems},

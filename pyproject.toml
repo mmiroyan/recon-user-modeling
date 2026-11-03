@@ -1,7 +1,7 @@
 [project]
 name = "recon"
 version = "0.1.0"
-description = "RECON: Reconstruction-Guided Reasoning Synthesis for User Modeling"
+description = "Recon: Reconstruction-Guided Reasoning Synthesis for User Modeling"
 readme = "README.md"
 requires-python = ">=3.11,<3.14"
 dependencies = [
